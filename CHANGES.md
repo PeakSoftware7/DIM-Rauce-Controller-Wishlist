@@ -1,15 +1,15 @@
 # Wishlist changes — vs published main
 
-*Generated 2026-07-03 22:09:10 UTC by DIM Wishlist Optimiser v0.16.*
+*Generated 2026-07-03 22:13:49 UTC by DIM Wishlist Optimiser v0.16.*
 
 ## Summary
 
 | Metric | Count |
 | --- | ---: |
-| Roll entries before | 197,161 |
-| Roll entries now | 198,281 |
-| **Net change** | **+1,120** |
-| ➕ Entries added | 1,120 |
+| Roll entries before | 198,281 |
+| Roll entries now | 198,284 |
+| **Net change** | **+3** |
+| ➕ Entries added | 3 |
 | ➖ Entries removed | 0 |
 | 🔫 Weapons newly covered | 2 |
 | 🚫 Weapons no longer covered | 0 |
@@ -18,5 +18,5 @@
 
 | Weapon | Rolls added |
 | --- | ---: |
-| [`2150012406`](https://www.light.gg/db/items/2150012406/) | +864 |
-| [`2325078119`](https://www.light.gg/db/items/2325078119/) | +256 |
+| [`2459087496`](https://www.light.gg/db/items/2459087496/) | +1 |
+| [`52683113`](https://www.light.gg/db/items/52683113/) | +2 |
